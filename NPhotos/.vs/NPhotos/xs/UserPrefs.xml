@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5DDF3468-B32F-49C0-AD76-B05A5DE3AC24}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NPhotos/NPhotos/Views/HomePage.xaml.cs">
+    <Files>
+      <File FileName="NPhotos/NPhotos/Views/LoginPage.xaml" Line="58" Column="18" />
+      <File FileName="NPhotos/NPhotos/Views/LoginPage.xaml.cs" Line="18" Column="13" />
+      <File FileName="NPhotos/NPhotos/Views/HomePage.xaml" Line="32" Column="19" />
+      <File FileName="NPhotos/NPhotos/Views/HomePage.xaml.cs" Line="82" Column="15" />
+      <File FileName="NPhotos/NPhotos.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="NPhotos/NPhotos.iOS/AuthenticationPageRenderer.cs" Line="11" Column="59" />
+      <File FileName="NPhotos/NPhotos.iOS/Entitlements.plist" />
+      <File FileName="NPhotos/NPhotos.iOS/Info.plist" />
+      <File FileName="NPhotos/NPhotos.iOS/AppDelegate.cs" Line="32" Column="25" />
+      <File FileName="NPhotos/NPhotos/ViewModels/GoogleViewModel.cs" Line="40" Column="12" />
+      <File FileName="NPhotos/NPhotos/Views/GoogleProfileCsPage.cs" Line="88" Column="23" />
+      <File FileName="NPhotos/NPhotos/ViewModels/HomePageViewModel.cs" Line="1" Column="1" />
+      <File FileName="NPhotos/NPhotos/Helper/Constants.cs" Line="21" Column="137" />
+      <File FileName="NPhotos/NPhotos/Services/GoogleServices.cs" Line="51" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NPhotos.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DD955F6F-E1B4-4DEF-8CCD-E826AD7CD2CE" automaticSigning="False" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NPhotos.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+</Properties>
